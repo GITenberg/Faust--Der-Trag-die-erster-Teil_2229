@@ -1,0 +1,36 @@
+_repo: Faust--Der-Trag-die-erster-Teil_2229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: "Followed by Part 2 PG#2230\r\nCf. English Wikipedia: http://en.wikipedia.org/wiki/Faust,_Part_1\r\
+  \nCf. German Wikipedia: http://de.wikipedia.org/wiki/Faust_I"
+gutenberg_bookshelf:
+- DE Drama
+- Harvard Classics
+- Best Books Ever Listings
+gutenberg_issued: '2000-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2229'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magicians -- Drama'
+- !lcc 'PT'
+- !lcsh 'German poetry'
+- !lcsh 'Legends -- Germany -- Drama'
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- GITenberg
+title: 'Faust: Der Tragödie erster Teil'
+url: http://www.gutenberg.org/ebooks/2229
