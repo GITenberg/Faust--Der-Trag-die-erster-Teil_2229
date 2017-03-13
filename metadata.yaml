@@ -1,5 +1,8 @@
 _repo: Faust--Der-Trag-die-erster-Teil_2229
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: "Followed by Part 2 PG#2230\r\nCf. English Wikipedia: http://en.wikipedia.org/wiki/Faust,_Part_1\r\
   \nCf. German Wikipedia: http://de.wikipedia.org/wiki/Faust_I"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2229#Faust--Der-Trag-die-erster-Teil
 gutenberg_bookshelf:
 - DE Drama
 - Harvard Classics
